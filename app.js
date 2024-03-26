@@ -5,7 +5,7 @@ const app = express();
 const port = 80;
 
 app.use(stringReplace({
-  KC_URL: process.env.KC_URL || "https://dauth.me"
+  KC_URL: process.env.KC_URL || "https://dauth.me/"
 }));
 
 app.use('/', express.static('public'));
