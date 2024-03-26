@@ -1,0 +1,7 @@
+{
+  "realm": "quickstart",
+  "auth-server-url": "https://dauth.me",
+  "ssl-required": "external",
+  "resource": "spa",
+  "public-client": true
+}
