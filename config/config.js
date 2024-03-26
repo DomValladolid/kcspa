@@ -1,4 +1,4 @@
-const baseUrl = 'https://dauth.me';
+const baseUrl = 'https://dauth.me/' ;
 
 export default {
   baseUrl: baseUrl,
